@@ -1,0 +1,32 @@
+.objectContainer {
+  margin-left: 20px;
+  padding: 5px;
+  border-left: 1px solid black;
+}
+
+.arrayContainer {
+  margin-left: 20px;
+}
+
+.keyContainer {
+  padding-left: 5px;
+}
+
+.valueContainer {
+  padding-left: 5px;
+}
+
+.propContainer {
+  padding: 2px;
+}
+
+.fa-pencil:hover {
+  color:steelblue;
+  font-size:1.5em;
+}
+
+.fa-ban:hover {
+  color:red;
+  font-size:1.5em;
+}
+
